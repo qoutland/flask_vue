@@ -1,5 +1,5 @@
 // https://eslint.org/docs/user-guide/configuring
-//eslint linebreak-style: ["error", "windows"];
+
 module.exports = {
   root: true,
   parserOptions: {
